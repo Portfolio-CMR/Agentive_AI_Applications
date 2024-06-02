@@ -3,6 +3,10 @@ archetype = "home"
 title = "Agentive AI Applications"
 +++
 
+![AI Splash](/Agentive_AI_Applications/images/ai_splash.png)
+
+&nbsp;
+
 Tired of spending hours tailoring your resume and cover letter for every job application?  Let AI do the heavy lifting! This framework is your personal job application assistant, designed to:
 
 * **🕵️‍♀️ Research Companies:** Uncover key insights to help you stand out.
