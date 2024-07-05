@@ -5,23 +5,6 @@ draft = false
 weight = 1
 +++
 
-Skip to main content
-careers
-
-Search for Jobs
-Candidate Home
-
-Data Scientist page is loaded
-Data Scientist
-Continue Application
-locations
-Remote, United States
-time type
-Full time
-posted on
-Posted 16 Days Ago
-job requisition id
-R-002339
 DTN is a global leader providing insights and analytics to our customers to feed, fuel, and protect the world.  We help people make critical business decisions that impact the agriculture, oil and gas, trading, and weather industries. 
 
  
@@ -30,47 +13,39 @@ It’s a difference you’ve likely felt without even knowing it. From the food 
 
 Job Description:
 
-Come join a team of excited and engaged data scientists working across a wide array of industries and domains, including weather, agriculture, refined fuels, marine applications, and transportation infrastructure!  DTN is currently looking for a data scientist to work in the areas of agriculture and weather risks, using weather forecasts, satellite imagery and related datasets. 
-
- 
+Come join a team of excited and engaged data scientists working across a wide array of industries and domains, including weather, agriculture, refined fuels, marine applications, and transportation infrastructure!  DTN is looking for a data scientist to build generative AI (GenAI) applications for content creation.   
 
 What you will be responsible for:  
 
-Collaborate with domain experts to understand requirements and translate them into actionable data science tasks 
+Design and implement GenAI models for content creation in interactive experiences and automated reporting, messaging, and outreach 
 
-Conduct exploratory data analysis to identify trends, patterns, and anomalies in relevant datasets, including weather and Earth-observing satellite data, data from weather and agricultural modeling systems, and data from governmental sources such as the USDA, NOAA and NASA 
+Develop innovative GenAI applications for both text and visual content   
 
-Identify and implement novel ways of integrating varied informational resources to fill in critical gaps in the data that are available for solving a particular problem 
+Research and evaluate state-of-the-art tools and techniques in GenAI 
 
-Develop and implement innovative machine learning models for classification, localization, prediction, and change detection 
+Experiment with emerging AI technologies to enhance content creation capabilities and improve user experiences 
 
-Develop data visualization tools and dashboards to communicate findings and insights to stakeholders 
+Optimize generative models to improve accuracy, efficiency, and performance  
 
-Apply satellite data in combination with other data resources and models to extract meaningful insights related to weather impacts and agricultural patterns 
+Create and maintain documentation, training, and best-practice guidance for using GenAI tools and applications for content creation 
 
-Conduct spatiotemporal analyses and build models to identify and forecast weather-related risks such as droughts, floods, and storms, and their impact on agriculture and safety 
+Collaborate with software development teams to incorporate AI-generated content into applications and other content-delivery platforms 
 
-Stay updated with the latest advancements in satellite imagery analysis, machine learning, and data science techniques 
+Stay updated with the latest advancements in machine learning, decision support, and GenAI techniques  
 
  
 
 What you will bring to the role:  
 
-Demonstrated experience in quantitative and scientific analysis 
+2+ years of experience with Python and the PyData stack and tools such as Pandas, Numpy, and JupyterLab 
 
-Experience with data science tools and quantitative analysis programming languages, such as Python (Pandas, Numpy) and JupyterLab 
+In-depth knowledge of machine learning concepts and algorithms, particularly in generative models such as LLMs (Large Language Models), GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders), or GPT (Generative Pre-trained Transformer)   
 
-Excellent problem-solving skills and demonstrated ability for analytical thinking 
+Experience with version control tools such as GitLab or GitHub  
 
-Able to work within cloud platforms such as AWS, Azure, or Google Cloud Platform 
+Able to work within cloud-native workflows 
 
-Proficiency with data analysis techniques for preprocessing, classification, change detection (etc.) in data from varied sources such as satellites, weather networks, models, and instrumented machinery, preferred 
-
-Experience working with weather or climate data, such as meteorological models and remotely-sensed datasets, preferred 
-
- 
-
-What you can expect from DTN:  
+What you can expect from DTN: 
 
 Competitive Salary  
 
@@ -90,7 +65,7 @@ Employee Assistance Program (EAP)
 
 Applications for this position will be accepted until 6/28/2024. Interested candidates are encouraged to submit their applications before the specified deadline. 
 
-The targeted hiring base pay range for this position is between $78,750 and $105,000. DTN is a pay for performance organization, which means there is the opportunity to advance your compensation with performance over time. The actual base pay offered for this position will be dependent upon many factors, including but not limited to: prior work experience, training/education, transferable skills, business needs, internal equity and applicable laws. The targeted hiring base pay range is subject to change and may be modified in the future. This role may also be eligible for market competitive variable pay and benefits. 
+The targeted hiring base pay range for this position is between $94,500 and $115,500. DTN is a pay for performance organization, which means there is the opportunity to advance your compensation with performance over time. The actual base pay offered for this position will be dependent upon many factors, including but not limited to: prior work experience, training/education, transferable skills, business needs, internal equity and applicable laws. The targeted hiring base pay range is subject to change and may be modified in the future. This role may also be eligible for market competitive variable pay and benefits. 
 
  
 
@@ -106,48 +81,8 @@ OUR VALUES: Customer-Focused, Forward-Thinking, People-Centric, Solution-Oriente
 
 At DTN, we are an equal opportunity employer. Come join us as we help feed, fuel, and protect the world! 
 
-#LI-LM1
+  
 
-#LI-REMOTE
+#LI-LM1 
 
-Why DTN?
-
- 
-
-OUR VISION: To be the independent, trusted source of insights to our customers who feed, protect, and fuel the world. 
-
- 
-
-OUR MISSION: Empower our customers with intelligent and actionable insights that exceed their expectations and enable their success on a daily basis. 
-
- 
-
-OUR VALUES:  Customer-Focused, Forward-Thinking, People-Centric, Solution-Oriented 
-
- 
-
-We have great benefits at DTN – apply today to find out more! 
-
- 
-
-At DTN, we are an equal opportunity employer. Come join us as we help feed, fuel, and protect the world! 
-
-** DTN is an Equal Opportunity Employer Minorities/Women/Veterans/Disabled
-
-
-Similar Jobs (1)
-Data Scientist
-locations
-Remote, United States
-time type
-Full time
-posted on
-Posted 16 Days Ago
-About Us
-Logo
-We believe that operational intelligence drives better business decisions. Our team of highly skilled experts work together to deliver innovative, industry-changing insights that impact our world. Together, we foster an environment that encourages teamwork and mutual respect and brings our unique perspective to help our customers and each other. Together, we surpass expectations. 
-
-
-Read More
-Follow Us
-© 2024 Workday, Inc. All rights reserved.
+#LI-REMOTE 
